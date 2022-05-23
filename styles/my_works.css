@@ -208,8 +208,9 @@ body{
     border-radius: 15px;
     
 }
-.cat-img{
+.cat-img {
     background-image: url(../img/pictures/project.jpg);
     background-size: 150px;
     object-fit: fill;
+
 }
